@@ -17,7 +17,7 @@ I am Full Stack Web Developer with experience in developing web applications usi
 
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in//">
+    <a href="https://www.linkedin.com/in/anas-jabellah-72064222b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
     </a>
     <a href="https://www.twitter.com/">
